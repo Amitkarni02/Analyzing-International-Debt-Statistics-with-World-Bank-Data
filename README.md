@@ -10,7 +10,7 @@ In this project, I analyzed international debt data collected by <a href="https:
 - Which country owns the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
 
-For more information on the project, please visit the official <a href="https://www.datacamp.com/projects/754" target="_blank">project page</a> on <a href="www.datacamp.com" target="_blank">DataCamp</a>.
+
 
 ## The Dataset:
 
