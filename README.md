@@ -1,4 +1,4 @@
-# Analyzing International Debt Statistics with World Bank Data
+# Analyzing International Debt Statistics with World Bank Data Using MY_SQL
 
 ## Project Description:
 
